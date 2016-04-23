@@ -17,4 +17,4 @@ class TestContext(object):
 
 
 with TestContext() as test:
-	print 1/0
+	print "hahah"
